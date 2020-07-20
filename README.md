@@ -45,6 +45,7 @@ git clone https://github.com/Matrix-jailer/0ctocrypt.git
 ```
 cd 0ctocrypt
 python2 0ctocrypt.py
+Auth key : 8ebd138d68d9200c2b992c5e35a70a29
 ```
 # Options
 ```
