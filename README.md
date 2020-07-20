@@ -55,3 +55,5 @@ This tool had several options to encode your code
 3) zlib + Base 64 ( Moderate )
 4) Marshal + zlib + Base 64 ( best )
 ```
+
+![IMG_20200720_155527](https://user-images.githubusercontent.com/66746496/87930415-7930ad00-caa1-11ea-8830-16cfd0a8d730.jpg)
