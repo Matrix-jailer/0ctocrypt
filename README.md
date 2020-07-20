@@ -57,3 +57,30 @@ This tool had several options to encode your code
 ```
 
 ![IMG_20200720_155527](https://user-images.githubusercontent.com/66746496/87930415-7930ad00-caa1-11ea-8830-16cfd0a8d730.jpg)
+
+### Fork
+```
+Fork this repository by clicking on the fork button on the top of this page. 
+This will create a copy of this repository in your account.
+```
+### Contact
+```
+WhatsApp > +923130215090
+```
+```
+Email    > Matrixjailer@gmail.com
+```
+### Contribution
+```
+If you want to contribute here 
+just fork and open a pull request. 
+if you have any suggestions to improve this project 
+just open an issue.
+Found a Problem in Code ?
+Open issue asap :-)
+```
+### Donate
+BITCOIN ADDRESS
+```
+13Gau2D3gjTfCmx7dKjSyZETDH182ZS8ox
+```
